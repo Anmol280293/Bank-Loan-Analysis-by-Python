@@ -1,7 +1,3 @@
-
-
----
-
 # Bank Loan Analysis (Python)
 
 ##  Project Overview
